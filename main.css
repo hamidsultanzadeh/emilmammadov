@@ -1,0 +1,101 @@
+body{
+    font-family: 'Verdana', sans-serif !important
+}
+
+.first-block {
+    height: 140px;
+    background-color: rgb(14, 55, 154);
+}
+
+.second-block {
+    height: 150px; 
+    padding-top: 100px;
+}
+
+.third-block {
+    height: 100px;
+    padding-top: 10px
+}
+
+.square140 {
+    width: 140px; 
+    height: 140px;
+}
+
+.square105 {
+    width: 105px; 
+    height: 105px;
+}
+
+.square40 {
+    width: 40px; 
+    height: 40px;
+}
+
+.square44 {
+    width: 44px; 
+    height: 44px;
+}
+
+.square24 {
+    width: 24px; 
+    height: 24px;
+}
+
+.image-frame-position {
+    bottom: -70px;
+}
+
+.link-label {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.border-frame {
+    border-radius: 100%; 
+    box-shadow: 0 4px 6px 0 #eaeaec
+}
+
+.details-border-frame {
+    border: 1px solid #F8F8F9; 
+    box-shadow: 0 4px 6px 0 #eaeaec;
+    border-radius: 8px;
+    margin-bottom: 36px;
+    background-color: #FFF;
+}
+
+.details-main {
+    text-align: center;
+    font-size: 15px; 
+}
+
+.details-label {
+    color:rgb(177, 177, 177);
+    font-size: 13px;
+}
+
+.details-social-main {
+    text-align: left;
+    font-size: 15px; 
+    display: block;
+}
+
+.width50 {
+    width: 50% !important;
+}
+
+a {
+    all: unset !important;
+}
+
+a:hover {
+    cursor: pointer !important;
+}
+
+.special-hover:hover {
+    transform: scale(1.2)
+}
+
+.special-hover-idle {
+    transition: transform .2s;
+}
