@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Verdana', sans-serif !important
 }
 
@@ -8,7 +8,7 @@ body{
 }
 
 .second-block {
-    height: 150px; 
+    height: 150px;
     padding-top: 100px;
 }
 
@@ -18,28 +18,33 @@ body{
 }
 
 .square140 {
-    width: 140px; 
+    width: 140px;
     height: 140px;
 }
 
 .square105 {
-    width: 105px; 
+    width: 105px;
     height: 105px;
 }
 
 .square40 {
-    width: 40px; 
+    width: 40px;
     height: 40px;
 }
 
 .square44 {
-    width: 44px; 
+    width: 44px;
     height: 44px;
 }
 
 .square24 {
-    width: 24px; 
+    width: 24px;
     height: 24px;
+}
+
+.square20 {
+    width: 20px;
+    height: 20px;
 }
 
 .image-frame-position {
@@ -52,12 +57,12 @@ body{
 }
 
 .border-frame {
-    border-radius: 100%; 
+    border-radius: 100%;
     box-shadow: 0 4px 6px 0 #eaeaec
 }
 
 .details-border-frame {
-    border: 1px solid #F8F8F9; 
+    border: 1px solid #F8F8F9;
     box-shadow: 0 4px 6px 0 #eaeaec;
     border-radius: 8px;
     margin-bottom: 36px;
@@ -66,17 +71,17 @@ body{
 
 .details-main {
     text-align: center;
-    font-size: 15px; 
+    font-size: 15px;
 }
 
 .details-label {
-    color:rgb(177, 177, 177);
+    color: rgb(177, 177, 177);
     font-size: 13px;
 }
 
 .details-social-main {
     text-align: left;
-    font-size: 15px; 
+    font-size: 15px;
     display: block;
 }
 
@@ -84,7 +89,7 @@ body{
     width: 50% !important;
 }
 
-a {
+.a-all-unset {
     all: unset !important;
 }
 
